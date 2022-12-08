@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="">
+  <a href="https://www.linkedin.com/in/guilherme-gon%C3%A7alves-50a48b1bb">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="">
@@ -15,20 +15,20 @@
 </h1>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
 ---
 
 ### :woman_technologist: Sobre mim :
-- :telescope: Eu sou um programador Jr., trabalho em uma empresa de software na parte do backend, mas no tempo livre pratico Vue.js.
+- :telescope: Sou um Programador Jr. trabalhando com a parte de backend.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Estou estudando frontend para me tornar um fullstack e utilizo do Github para exibi-los para comunidade.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Amo programar em Vuejs e atualmente estou refazendo meu projeto de TCC utilizando tecnologias muito mais avançadas e todo conhecimento que consegui trabalhando.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com.br/degui1)
+- :mailbox:Acesse meu Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-gon%C3%A7alves-50a48b1bb)
 
 ---
 
@@ -42,11 +42,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" title="Delphi" **alt="Delphi" width="40" height="40"/>
 </div>
 
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=degui1&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=degui1&theme=dark&background=000000&mode=weekly)](https://git.io/streak-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=degui1&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=degui1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ---
+
+### :writing_hand: Blog Posts : -->
