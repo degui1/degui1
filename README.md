@@ -24,7 +24,7 @@
 ### :woman_technologist: Sobre mim :
 - :telescope: Sou um Programador Jr. trabalhando com a parte de backend.
 
-- :seedling: Estou estudando frontend para me tornar um fullstack e utilizo do Github para exibi-los para comunidade.
+- :seedling: Estou estudando frontend para me tornar um fullstack e utilizo do Github para exibir meus projetos para comunidade.
 
 - :zap: Amo programar em Vuejs e atualmente estou refazendo meu projeto de TCC utilizando tecnologias muito mais avançadas e todo conhecimento que consegui trabalhando.
 
