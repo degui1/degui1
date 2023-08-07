@@ -22,7 +22,7 @@
 ---
 
 ### :woman_technologist: Sobre mim :
-- :telescope: Sou um Programador Jr. trabalhando Full Stack. Trabalho com JavaScript no front-end e Delphi no Back-end.
+- :telescope: Sou um Programador Jr. Full Stack. Trabalho com JavaScript no front-end e Delphi no Back-end.
 
 - :seedling: Atualmente busco melhorar minhas habilidades em back e uso do github para salvar alguns dos meu projetos.
 
