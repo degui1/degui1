@@ -22,11 +22,11 @@
 ---
 
 ### :woman_technologist: Sobre mim :
-- :telescope: Sou um Programador Jr. Full Stack. Trabalho com JavaScript no front-end e Delphi no Back-end.
+- :telescope: Sou um Programador Jr. Full Stack que trabalha atualmente com TypeScript.
 
 - :seedling: Atualmente busco melhorar minhas habilidades em back e uso do github para salvar alguns dos meu projetos.
 
-- :zap: Amo programar em Vuejs e atualmente estou refazendo meu projeto de TCC utilizando tecnologias muito mais avançadas e todo conhecimento que consegui trabalhando.
+- :zap: Amo programar em JavaScript/TypeScript e atualmente estou refazendo meu projeto de TCC utilizando tecnologias muito mais avançadas e todo conhecimento que consegui trabalhando.
 
 - :mailbox:Acesse meu Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-gon%C3%A7alves-50a48b1bb)
 
