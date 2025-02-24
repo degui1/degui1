@@ -22,7 +22,7 @@
 ---
 
 ### :woman_technologist: Sobre mim :
-- :telescope: Sou um Programador Jr. Full Stack que trabalha atualmente com TypeScript.
+- :telescope: Sou um Programador front end pleno que trabalha atualmente com TypeScript e React.
 
 - :seedling: Atualmente busco melhorar minhas habilidades em back e uso do github para salvar alguns dos meu projetos.
 
