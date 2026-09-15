@@ -1,0 +1,45 @@
+<svg width="1280" height="330" viewBox="0 0 1280 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering impact summary</title>
+  <desc id="desc">Impact metrics for SQL optimization, internationalization performance, real-time dashboards and automation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#101826"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="90" y1="62" x2="1190" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="0.52" stop-color="#8ED1C0"/>
+      <stop offset="1" stop-color="#CFE39B"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1278" height="328" rx="24" fill="url(#bg)" stroke="#30363D" stroke-width="2"/>
+  <text x="64" y="70" fill="#E6EDF3" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="32" font-weight="800">Engineering impact</text>
+  <text x="64" y="106" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="18">Practical results across architecture, performance, automation and real-time systems.</text>
+
+  <g transform="translate(64 145)">
+    <rect width="260" height="120" rx="16" fill="#151B23" stroke="#30363D"/>
+    <text x="24" y="45" fill="#58A6FF" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">9.2x</text>
+    <text x="24" y="78" fill="#E6EDF3" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="18">lower estimated cost</text>
+    <text x="24" y="102" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="15">SQL on 26M+ row tables</text>
+  </g>
+  <g transform="translate(356 145)">
+    <rect width="260" height="120" rx="16" fill="#151B23" stroke="#30363D"/>
+    <text x="24" y="45" fill="#8ED1C0" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">83x</text>
+    <text x="24" y="78" fill="#E6EDF3" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="18">less memory usage</text>
+    <text x="24" y="102" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="15">more efficient execution</text>
+  </g>
+  <g transform="translate(648 145)">
+    <rect width="260" height="120" rx="16" fill="#151B23" stroke="#30363D"/>
+    <text x="24" y="45" fill="#CFE39B" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">94.5%</text>
+    <text x="24" y="78" fill="#E6EDF3" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="18">less i18n overhead</text>
+    <text x="24" y="102" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="15">1518 ms para 84 ms</text>
+  </g>
+  <g transform="translate(940 145)">
+    <rect width="276" height="120" rx="16" fill="#151B23" stroke="#30363D"/>
+    <text x="24" y="45" fill="#58A6FF" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">800x</text>
+    <text x="24" y="78" fill="#E6EDF3" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="18">fewer repeated calls</text>
+    <text x="24" y="102" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="15">batch loading e cache</text>
+  </g>
+
+  <path d="M64 294C236 260 339 303 497 276C651 249 751 218 904 246C1051 273 1113 291 1216 264" stroke="url(#stroke)" stroke-width="3" stroke-linecap="round"/>
+</svg>

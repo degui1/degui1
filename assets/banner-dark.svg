@@ -1,0 +1,47 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Guilherme Goncalves - Full-Stack Software Engineer</title>
+  <desc id="desc">Dark profile banner with software architecture and real-time systems visual elements.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.45" stop-color="#101826"/>
+      <stop offset="1" stop-color="#071B1A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="190" y1="54" x2="1040" y2="306" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="0.5" stop-color="#8ED1C0"/>
+      <stop offset="1" stop-color="#CFE39B"/>
+    </linearGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <path d="M0 294C176 224 296 331 460 263C612 200 735 95 908 127C1078 159 1162 274 1280 220V360H0V294Z" fill="#0F2A2B" opacity="0.74"/>
+  <path d="M0 78C147 114 255 75 384 91C579 115 642 219 827 197C1000 176 1086 70 1280 104" stroke="url(#accent)" stroke-width="2" opacity="0.35"/>
+  <path d="M170 284H1110" stroke="#30363D" stroke-width="1"/>
+
+  <g filter="url(#soft)" opacity="0.46">
+    <circle cx="1042" cy="95" r="74" fill="#58A6FF"/>
+    <circle cx="1124" cy="224" r="88" fill="#8ED1C0"/>
+    <circle cx="244" cy="104" r="62" fill="#CFE39B"/>
+  </g>
+
+  <g opacity="0.48">
+    <path d="M860 80h128a20 20 0 0 1 20 20v60a20 20 0 0 1-20 20H860a20 20 0 0 1-20-20v-60a20 20 0 0 1 20-20Z" fill="#151B23" stroke="#30363D"/>
+    <path d="M884 114h78M884 144h48" stroke="#8ED1C0" stroke-width="7" stroke-linecap="round"/>
+    <path d="M1028 178h104a18 18 0 0 1 18 18v52a18 18 0 0 1-18 18h-104a18 18 0 0 1-18-18v-52a18 18 0 0 1 18-18Z" fill="#151B23" stroke="#30363D"/>
+    <path d="M1050 211h58M1050 237h34" stroke="#58A6FF" stroke-width="6" stroke-linecap="round"/>
+    <path d="M784 198h110a18 18 0 0 1 18 18v54a18 18 0 0 1-18 18H784a18 18 0 0 1-18-18v-54a18 18 0 0 1 18-18Z" fill="#151B23" stroke="#30363D"/>
+    <path d="M806 231h62M806 257h42" stroke="#CFE39B" stroke-width="6" stroke-linecap="round"/>
+    <path d="M1008 143c42 2 62 18 68 35M912 236c42-3 72-15 98-36" stroke="#8B949E" stroke-width="2" stroke-dasharray="6 8"/>
+  </g>
+
+  <g>
+    <text x="72" y="106" fill="#8ED1C0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="2">FULL-STACK SOFTWARE ENGINEER</text>
+    <text x="72" y="172" fill="#E6EDF3" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">Guilherme Goncalves</text>
+    <text x="74" y="220" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="24">React · TypeScript · Node.js · NestJS · Real-time systems</text>
+    <text x="74" y="270" fill="#CFE39B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">modernizing enterprise products with performance, architecture and automation</text>
+  </g>
+</svg>
